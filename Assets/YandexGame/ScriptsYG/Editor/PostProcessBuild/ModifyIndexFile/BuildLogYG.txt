@@ -1,0 +1,2 @@
+Build path: E:/UnityBuilds/StellarLord/Build
+Build number: 8
